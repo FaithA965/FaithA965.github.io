@@ -50,9 +50,7 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 
 ## Mock Interview Video
 This video showcases my communication skills and readiness for the workplace.
-
-<iframe src="https://drive.google.com/file/d/1QKZbcV_KsShksdbQuwxzzkp7Gog7loAD/preview" 
-        width="640" height="480" allow="autoplay"></iframe>
+https://www.youtube.com/embed/Yi33zGyzG0I
 
 ---
 
