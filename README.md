@@ -1,5 +1,4 @@
-# Faith Adams- Github Portfolio
-
+# Faith Adams – GitHub Portfolio
 
 ## Live Portfolio Website
 
@@ -71,8 +70,9 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 
 ##  Mock Interview Video
 
- [View Mock Interview](mock-interview.mp4)
- https://github.com/FaithA965/FaithA965.github.io/blob/main/mock-interview.mp4.mp4
+ View Mock Interview: https://github.com/FaithA965/FaithA965.github.io/blob/main/mock-interview.mp4
+
+The mock interview helped improve my communication skills, confidence, and ability to explain technical concepts clearly. It also prepared me for real-world interview situations.
 
 ---
 
@@ -102,8 +102,9 @@ Deploying the portfolio with **GitHub Pages** showed me how a repository becomes
 ##  Repository Contents
 - README.md  
 - Project screenshots  
-- Mock interview video  
-
+- Mock interview video
+-  LICENSE file  
+ 
 ---
 ## License
 This project is shared for academic and Work Integrated Learning (WIL) assessment purposes only.
