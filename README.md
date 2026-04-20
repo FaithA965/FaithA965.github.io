@@ -104,6 +104,5 @@ Deploying the portfolio with **GitHub Pages** showed me how a repository becomes
 - Mock interview video  
 
 ---
-
-##  License
-This portfolio is for academic and Work Integrated Learning (WIL) assessment purposes only.
+## License
+This project is shared for academic and Work Integrated Learning (WIL) assessment purposes only.
