@@ -69,8 +69,12 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 ---
 
 ##  Mock Interview Video
+<video width="600" controls>
+  <source src="v14044g50000d6njsivog65m7c6i3j90.mp4" type="mock-interview.mp4">
+ 
+</mock-interview.mp4>
 
- View Mock Interview: https://github.com/FaithA965/FaithA965.github.io/blob/main/mock-interview.mp4
+
 
 The mock interview helped improve my communication skills, confidence, and ability to explain technical concepts clearly. It also prepared me for real-world interview situations.
 
