@@ -1,7 +1,4 @@
-# Faith Adams – GitHub Portfolio
-
 ## Live Portfolio Website
-
  https://faitha965.github.io/
 
 ---
@@ -48,24 +45,17 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 - Description: Helps students locate study spaces on campus  
 - Technologies: Java, Firebase  
 
-![Study Finder App](study-finder.png)
-
 ---
 
 ### Fitness App
 - Description: Tracks workouts and fitness progress  
 - Technologies: Java, Android Studio  
 
-![Fitness App](fitness-app.png)
-
 ---
 
 ### Library Management System
 - Description: Manages books, borrowing, and return records  
 - Technologies: Java, SQL  
-
-![Library App](library-app.png)
-
 ---
 
 ##  Mock Interview Video
@@ -78,35 +68,22 @@ The mock interview helped improve my communication skills, confidence, and abili
 
 ---
 
-# Reflection
 
-Working on this portfolio helped me grow in practical ways. I improved my **communication**, **problem solving**, and **technical confidence**, and I became more comfortable using **GitHub** for version control and documentation.  
-This project also taught me how to present my work clearly and professionally, which feels useful for real-world IT opportunities.
+## Reflections Using STAR
+### Reflection on Coding in Markdown
+**Situation:** Needed to present a professional CV and portfolio on GitHub Pages.  
+**Task:** Create a clear, accessible CV coded in Markdown and deploy to GitHub Pages.  
+**Action:** Wrote structured Markdown with headings, lists, and links; validated formatting on GitHub preview; committed to repo.  
+**Result:** Clean, readable CV on GitHub Pages; easier for recruiters and assessors to review.
 
----
+### Reflection on Mock Interview
+**Situation:** Practise interview skills for WIL placement.  
+**Task:** Improve clarity when explaining projects and behavioural answers.  
+**Action:** Recorded mock interview, reviewed recording, refined answers using feedback.  
+**Result:** Improved confidence and clearer project explanations; evidence uploaded to portfolio.
 
-# Reflection on Markdown
-
-Using **Markdown** made my GitHub portfolio clean and easy to navigate. I learned how to format headings, add images and links, and organize content so it’s simple to read. Markdown helped the portfolio look more polished and professional.
-
----
-
-# Reflection on Mock Interview
-
-The mock interview boosted my confidence and helped me explain my technical skills more clearly. Practicing answers and receiving feedback made me feel more prepared for real job interviews.
-
----
-
-# Reflection on GitHub Pages Deployment
-
-Deploying the portfolio with **GitHub Pages** showed me how a repository becomes a live website. I learned that pushing updates to GitHub automatically updates the site, which gave me hands-on experience with basic web deployment and the release process.
-
-##  Repository Contents
-- README.md  
-- Project screenshots  
-- Mock interview video
--  LICENSE file  
- 
----
-## License
-This project is shared for academic and Work Integrated Learning (WIL) assessment purposes only.
+### Reflection on GitHub Pages Deployment
+**Situation:** Portfolio must be published and accessible for assessment.  
+**Task:** Deploy portfolio to GitHub Pages and ensure all links and media work.  
+**Action:** Configured repository for GitHub Pages, added `index.md`, embedded video and CV, tested on mobile and desktop.  
+**Result:** Live portfolio URL available for Blackboard submission; evidence of deployment included in repo.
