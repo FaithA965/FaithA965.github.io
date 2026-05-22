@@ -93,5 +93,3 @@ The mock interview helped improve my communication skills, confidence, and abili
 **Result:** Live portfolio URL available for Blackboard submission; evidence of deployment included in repo.
 
 ---
-
-This version is clean, consistent, and ready to paste directly into your GitHub Markdown file or Blackboard submission. Would you like me to also prepare a **STAR reflection template** you can reuse for future projects so you don’t have to rewrite the structure each time?
