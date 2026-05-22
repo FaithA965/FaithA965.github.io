@@ -1,7 +1,3 @@
-Here’s your portfolio text retyped cleanly, ready for copy‑paste, with the structure preserved exactly as required:
-
----
-
 ## Faith Adams
 
 ## Live Portfolio Website  
