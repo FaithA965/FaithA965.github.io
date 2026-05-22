@@ -72,25 +72,24 @@ The mock interview helped improve my communication skills, confidence, and abili
 ## Reflections Using STAR  
 
 ### Reflection on Coding in Markdown  
-**Situation:** Needed to present a professional CV and portfolio on GitHub Pages.  
-**Task:** Create a clear, accessible CV coded in Markdown and deploy to GitHub Pages.  
-**Action:** Wrote structured Markdown with headings, lists, and links; validated formatting on GitHub preview; committed to repo.  
-**Result:** Clean, readable CV on GitHub Pages; easier for recruiters and assessors to review.
+**Situation:** I needed to put together a proper CV and portfolio that looked professional online.  
+**Task:** My goal was to make it clear, easy to read, and hosted on GitHub Pages.  
+**Action:** I used Markdown to build the CV, added headings, lists, and links, and checked everything in GitHub’s preview before committing.  
+**Result:** Ended up with a clean CV that looks good on GitHub Pages and is simple for recruiters or lecturers to go through.  
 
 ---
 
 ### Reflection on Mock Interview  
-**Situation:** Practise interview skills for WIL placement.  
-**Task:** Improve clarity when explaining projects and behavioural answers.  
-**Action:** Recorded mock interview, reviewed recording, refined answers using feedback.  
-**Result:** Improved confidence and clearer project explanations; evidence uploaded to portfolio.
+**Situation:** I wanted to practise my interview skills for WIL placement.  
+**Task:** I needed to get better at explaining my projects and answering behavioural questions clearly.  
+**Action:** I recorded a mock interview, watched it back, and improved my answers based on feedback.  
+**Result:** I felt more confident, explained my projects better, and now have the video uploaded as proof in my portfolio.  
 
 ---
 
 ### Reflection on GitHub Pages Deployment  
-**Situation:** Portfolio must be published and accessible for assessment.  
-**Task:** Deploy portfolio to GitHub Pages and ensure all links and media work.  
-**Action:** Configured repository for GitHub Pages, added `index.md`, embedded video and CV, tested on mobile and desktop.  
-**Result:** Live portfolio URL available for Blackboard submission; evidence of deployment included in repo.
+**Situation:** The portfolio had to be live online for assessment.  
+**Task:** I had to deploy it properly so all links and media worked.  
+**Action:** I set up GitHub Pages, added an `index.md`, embedded my CV and video, and tested it on both desktop and mobile.  
+**Result:** The portfolio is live with a working URL, ready for Blackboard submission, and shows I can handle deployment.  
 
----
