@@ -127,16 +127,16 @@ User stories describe a feature from the end user's perspective. Each story was 
 
 Taskboards for each sprint (page 1 of each logbook):
 ### Sprint 1 Taskboard
-![Sprint 1 Taskboard](./evidence/Taskboard_Sprint1.png)
+![Sprint 1 Taskboard](Taskboard_Sprint1.png)
 
 ### Sprint 2 Taskboard
-![Sprint 2 Taskboard](./evidence/Taskboard_Sprint2.png)
+![Sprint 2 Taskboard](Taskboard_Sprint2.png)
 
 ### Sprint 3 Taskboard
-![Sprint 3 Taskboard](./evidence/Taskboard_Sprint3.png)
+![Sprint 3 Taskboard](Taskboard_Sprint3.png)
 
 ### Sprint 4 Taskboard
-![Sprint 4 Taskboard](./evidence/Taskboard_Sprint4.png)
+![Sprint 4 Taskboard](Taskboard_Sprint4.png)
 
 ### Reflection (STAR)
 
