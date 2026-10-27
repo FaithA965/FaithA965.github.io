@@ -2,10 +2,6 @@
 
 **Faith Adams** | Diploma in ICT (Applications Development) | PRP372S Project Presentation 3
 
-> Add this page to your existing portfolio (for example as `agile.md`) and link to it from `index.md`:
-> `[Agile eWIL Portfolio](agile.md)`
-> Text in **[square brackets]** is a placeholder for you to fill in or confirm before submitting.
-
 ---
 
 ## Contents
@@ -100,7 +96,7 @@ User stories describe a feature from the end user's perspective. Each story was 
 | 8 | As a borehole supplier, I want to monitor water levels and supply information so that I can manage water distribution efficiently. | Sprint 4: US020 Review Technical Design | Same review tasks, applied to supplier-related entities. |
 | 9 | As an administrator, I want to monitor water usage and community supply data so that I can manage resources effectively. | Sprint 4: US020 Review Technical Design | Same review tasks, applied to administrator-related entities. |
 
-📎 Taskboard screenshots: **[add images, e.g. `![Sprint 4 taskboard](images/sprint4-taskboard.png)`]**
+📎 Taskboard screenshots: [Sprint 4 taskboard](images/sprint4-taskboard.png)`]**
 
 ### Reflection (STAR)
 
@@ -130,7 +126,7 @@ The Product Backlog is the prioritised list of everything the product needs. We 
 | Technical review (Sprint 4) | US020 Review Technical Design: architecture, ERD, entities, relationships, approval |
 | **[Add]** | **[Any later items, such as the Household Portal, Supplier Dashboard, Admin Dashboard, IoT integration and payments]** |
 
-**Trello board:** **[add your Trello board link, or a screenshot: `![Trello board](images/trello-board.png)`]**
+**Trello board:** [Trello board](images/trello-board.png)`]**
 
 **Process rule from our walkthroughs:** any new requirement found during a sprint is added to the Product Backlog and is not worked on straight away.
 
