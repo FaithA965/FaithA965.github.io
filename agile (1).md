@@ -2,7 +2,7 @@
 
 **Faith Adams** | Diploma in ICT (Applications Development) | PRP372S Project Presentation 3
 
-[← Back to my portfolio home](/README.md)
+[← Back to my portfolio home].(/README.md)
 
 ---
 
@@ -42,8 +42,9 @@ AquaLink is a community water supply and management platform that connects boreh
 3. **Data:** a relational database.
 4. **Physical/IoT:** borehole, flow sensor, 500L buffer tank, HDPE pipe network and household taps.
 
-- [View the AquaLink solution architecture diagram](evidence/Solution_Architecture.png)
-- [View the AquaLink project presentation](evidence/AquaLink_Presentation.pdf)
+![AquaLink Solution Architecture](evidence/Solution_Architecture.png)
+
+[View the AquaLink project presentation (PDF)](evidence/AquaLink_Presentation.pdf)
 
 **Timeline note:** I worked on the project sprints from 14 July to 7 August 2026. On 8 September 2026 I was released to start in-service training at Alteram Solutions, so I am no longer working on AquaLink. The artefacts in this portfolio cover the period I was part of the team.
 
@@ -55,7 +56,7 @@ AquaLink is a community water supply and management platform that connects boreh
 
 An Agile team charter is a living social contract that defines a team's shared purpose, values, working agreements and boundaries (CPUT, 2026).
 
-- [Download the full Agile Team Charter (PDF)](evidence/Agile_Team_Charter.pdf) (student numbers removed for privacy)
+- [Download the full Agile Team Charter (PDF)](evidence/Agile_Team_Charter.pdf) (teammates' student numbers removed for privacy)
 
 **Purpose.** The charter states that the team exists to design and build a digital platform that brings structure and fairness to the water supply system in Muraleni, replacing an informal system with one that is transparent, reliable and easy to use. Its vision is a community where access to water is guaranteed, predictable and affordable.
 
@@ -125,8 +126,23 @@ User stories describe a feature from the end user's perspective. Each story was 
 | 10 | As a borehole supplier, I want to monitor water levels and supply information so that I can manage water distribution efficiently. | Sprint 4: US020 Review Technical Design | The same review, applied to supplier-related entities. |
 | 11 | As an administrator, I want to monitor water usage and community supply data so that I can manage resources effectively. | Sprint 4: US020 Review Technical Design | The same review, applied to administrator-related entities. |
 
-Taskboards for each sprint (page 1 of each logbook):
-[Sprint 1](evidence/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](evidence/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](evidence/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
+**Taskboards showing the user stories and tasks**
+
+Sprint 1
+
+![Sprint 1 taskboard](evidence/Taskboard_Sprint1.png)
+
+Sprint 2
+
+![Sprint 2 taskboard](evidence/Taskboard_Sprint2.png)
+
+Sprint 3
+
+![Sprint 3 taskboard](evidence/Taskboard_Sprint3.png)
+
+Sprint 4
+
+![Sprint 4 taskboard](evidence/Taskboard_Sprint4.png)
 
 ### Reflection (STAR)
 
@@ -157,7 +173,9 @@ The Product Backlog is the prioritised list of everything the product needs (Pro
 | Technical review (Sprint 4) | US020 Review Technical Design: architecture, ERD, entities, relationships, approval |
 | Planned development (from our solution architecture) | Household Portal, Supplier Dashboard, Administrator Dashboard, sensor and flow data, subscriptions, payments and alerts |
 
-The Sprint 2 taskboard shows the Product Backlog column most fully: [Sprint 2 taskboard and logbook](evidence/Logbook_Sprint2_21-24Jul.pdf)
+The Sprint 2 taskboard shows all three columns in use, with the stories in the Product Backlog, Screen Design and Wireframes in progress, and the foundation work completed:
+
+![Sprint 2 taskboard](evidence/Taskboard_Sprint2.png)
 
 **Process rule from our walkthroughs:** any new requirement found during a sprint is added to the Product Backlog and is not worked on straight away.
 
@@ -189,6 +207,8 @@ The Sprint Backlog is the part of the Product Backlog the team commits to finish
 | Household connection request | Identify connection requirements, determine customer information, explore the request process, map the customer journey |
 | Borehole owner | Identify potential owners, determine supplier information, explore water monitoring, consider supplier management |
 
+![Sprint 1 taskboard](evidence/Taskboard_Sprint1.png)
+
 ### Sprint 2 (21 to 24 July 2026): Database Schema Design
 
 **Goal:** agree the database structure and entities for AquaLink.
@@ -199,6 +219,8 @@ The Sprint Backlog is the part of the Product Backlog the team commits to finish
 | Household account | Define relationships between all entities. Connect households, plans, purchases, tanks, alerts and payments |
 | Borehole owner | Identify supplier and borehole entities. Define attributes. Create the ERD. Document the schema |
 
+![Sprint 2 taskboard](evidence/Taskboard_Sprint2.png)
+
 ### Sprint 3 (28 to 30 July 2026): Global Stylesheet
 
 **Goal:** one consistent look across web and mobile.
@@ -208,6 +230,8 @@ The Sprint Backlog is the part of the Product Backlog the team commits to finish
 | Consistent interface | CSS variables, typography, colour palette |
 | Same design everywhere | Buttons, form inputs, tables, badges, spacing |
 | Web and mobile match | Sidebar, top navigation bar, footer, responsiveness testing |
+
+![Sprint 3 taskboard](evidence/Taskboard_Sprint3.png)
 
 ### Sprint 4 (4 to 7 August 2026): Technical Design Review (US020)
 
@@ -221,8 +245,7 @@ The Sprint Backlog is the part of the Product Backlog the team commits to finish
 | Document changes | Done |
 | Team approval | Prepared for final approval (7 Aug) |
 
-Sprint taskboards and logbooks:
-[Sprint 1](evidence/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](evidence/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](evidence/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
+![Sprint 4 taskboard](evidence/Taskboard_Sprint4.png)
 
 ### Reflection (STAR)
 
