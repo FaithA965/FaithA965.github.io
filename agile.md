@@ -42,7 +42,7 @@ AquaLink is a community water supply and management platform that connects boreh
 3. **Data:** a relational database.
 4. **Physical/IoT:** borehole, flow sensor, 500L buffer tank, HDPE pipe network and household taps.
 
-- [View the AquaLink solution architecture diagram](evidence/Solution_Architecture.png)
+- [View the AquaLink solution architecture diagram](/Solution_Architecture.png)
 - [View the AquaLink project presentation](evidence/AquaLink_Presentation.pdf)
 
 **Timeline note:** I worked on the project sprints from 14 July to 7 August 2026. On 8 September 2026 I was released to start in-service training at Alteram Solutions, so I am no longer working on AquaLink. The artefacts in this portfolio cover the period I was part of the team.
