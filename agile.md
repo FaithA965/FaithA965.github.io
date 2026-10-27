@@ -126,7 +126,17 @@ User stories describe a feature from the end user's perspective. Each story was 
 | 11 | As an administrator, I want to monitor water usage and community supply data so that I can manage resources effectively. | Sprint 4: US020 Review Technical Design | The same review, applied to administrator-related entities. |
 
 Taskboards for each sprint (page 1 of each logbook):
-[Sprint 1](/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
+### Sprint 1 Taskboard
+![Sprint 1 Taskboard](./evidence/Taskboard_Sprint1.png)
+
+### Sprint 2 Taskboard
+![Sprint 2 Taskboard](./evidence/Taskboard_Sprint2.png)
+
+### Sprint 3 Taskboard
+![Sprint 3 Taskboard](./evidence/Taskboard_Sprint3.png)
+
+### Sprint 4 Taskboard
+![Sprint 4 Taskboard](./evidence/Taskboard_Sprint4.png)
 
 ### Reflection (STAR)
 
