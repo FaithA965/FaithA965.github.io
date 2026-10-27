@@ -43,7 +43,7 @@ AquaLink is a community water supply and management platform that connects boreh
 4. **Physical/IoT:** borehole, flow sensor, 500L buffer tank, HDPE pipe network and household taps.
 
 - [View the AquaLink solution architecture diagram](/Solution_Architecture.png)
-- [View the AquaLink project presentation](evidence/AquaLink_Presentation.pdf)
+- [View the AquaLink project presentation](/AquaLink_Presentation.pdf)
 
 **Timeline note:** I worked on the project sprints from 14 July to 7 August 2026. On 8 September 2026 I was released to start in-service training at Alteram Solutions, so I am no longer working on AquaLink. The artefacts in this portfolio cover the period I was part of the team.
 
@@ -55,7 +55,7 @@ AquaLink is a community water supply and management platform that connects boreh
 
 An Agile team charter is a living social contract that defines a team's shared purpose, values, working agreements and boundaries (CPUT, 2026).
 
-- [Download the full Agile Team Charter (PDF)](evidence/Agile_Team_Charter.pdf) (student numbers removed for privacy)
+- [Download the full Agile Team Charter (PDF)](/Agile_Team_Charter.pdf) (student numbers removed for privacy)
 
 **Purpose.** The charter states that the team exists to design and build a digital platform that brings structure and fairness to the water supply system in Muraleni, replacing an informal system with one that is transparent, reliable and easy to use. Its vision is a community where access to water is guaranteed, predictable and affordable.
 
@@ -126,7 +126,7 @@ User stories describe a feature from the end user's perspective. Each story was 
 | 11 | As an administrator, I want to monitor water usage and community supply data so that I can manage resources effectively. | Sprint 4: US020 Review Technical Design | The same review, applied to administrator-related entities. |
 
 Taskboards for each sprint (page 1 of each logbook):
-[Sprint 1](evidence/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](evidence/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](evidence/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
+[Sprint 1](/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
 
 ### Reflection (STAR)
 
@@ -222,7 +222,7 @@ The Sprint Backlog is the part of the Product Backlog the team commits to finish
 | Team approval | Prepared for final approval (7 Aug) |
 
 Sprint taskboards and logbooks:
-[Sprint 1](evidence/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](evidence/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](evidence/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf)
+[Sprint 1](/Logbook_Sprint1_14-17Jul.pdf) | [Sprint 2](/Logbook_Sprint2_21-24Jul.pdf) | [Sprint 3](/Logbook_Sprint3_28-30Jul.pdf) | [Sprint 4](/Logbook_Sprint4_04-07Aug.pdf)
 
 ### Reflection (STAR)
 
@@ -244,10 +244,10 @@ The logbook records the daily stand-up (what I completed, what I plan to do, imp
 
 | Sprint | Dates | Logbook |
 |---|---|---|
-| Sprint 1 | 14 to 17 July 2026 | [Logbook Sprint 1](evidence/Logbook_Sprint1_14-17Jul.pdf) |
-| Sprint 2 | 21 to 24 July 2026 | [Logbook Sprint 2](evidence/Logbook_Sprint2_21-24Jul.pdf) |
-| Sprint 3 | 28 to 30 July 2026 | [Logbook Sprint 3](evidence/Logbook_Sprint3_28-30Jul.pdf) |
-| Sprint 4 | 4 to 7 August 2026 | [Logbook Sprint 4](evidence/Logbook_Sprint4_04-07Aug.pdf) |
+| Sprint 1 | 14 to 17 July 2026 | [Logbook Sprint 1](/Logbook_Sprint1_14-17Jul.pdf) |
+| Sprint 2 | 21 to 24 July 2026 | [Logbook Sprint 2](/Logbook_Sprint2_21-24Jul.pdf) |
+| Sprint 3 | 28 to 30 July 2026 | [Logbook Sprint 3](/Logbook_Sprint3_28-30Jul.pdf) |
+| Sprint 4 | 4 to 7 August 2026 | [Logbook Sprint 4](/Logbook_Sprint4_04-07Aug.pdf) |
 
 **Highlights**
 
