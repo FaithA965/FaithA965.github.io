@@ -2,8 +2,7 @@
 
 **Faith Adams** | Diploma in ICT (Applications Development) | PRP372S Project Presentation 3
 
-[← Back to my portfolio home].(/README.md)
-
+[← Back to my portfolio home](../README.md)
 ---
 
 ## Contents
@@ -42,7 +41,7 @@ AquaLink is a community water supply and management platform that connects boreh
 3. **Data:** a relational database.
 4. **Physical/IoT:** borehole, flow sensor, 500L buffer tank, HDPE pipe network and household taps.
 
-![AquaLink Solution Architecture](evidence/Solution_Architecture.png)
+![AquaLink Solution Architecture](./evidence/Solution_Architecture.png)
 
 [View the AquaLink project presentation (PDF)](evidence/AquaLink_Presentation.pdf)
 
@@ -56,7 +55,7 @@ AquaLink is a community water supply and management platform that connects boreh
 
 An Agile team charter is a living social contract that defines a team's shared purpose, values, working agreements and boundaries (CPUT, 2026).
 
-- [Download the full Agile Team Charter (PDF)](evidence/Agile_Team_Charter.pdf) (teammates' student numbers removed for privacy)
+[Download the full Agile Team Charter (PDF)](./evidence/Agile_Team_Charter.pdf) (teammates' student numbers removed for privacy)
 
 **Purpose.** The charter states that the team exists to design and build a digital platform that brings structure and fairness to the water supply system in Muraleni, replacing an informal system with one that is transparent, reliable and easy to use. Its vision is a community where access to water is guaranteed, predictable and affordable.
 
@@ -130,19 +129,19 @@ User stories describe a feature from the end user's perspective. Each story was 
 
 Sprint 1
 
-![Sprint 1 taskboard](evidence/Taskboard_Sprint1.png)
+![Sprint 1 taskboard](./evidence/Taskboard_Sprint1.png)
 
 Sprint 2
 
-![Sprint 2 taskboard](evidence/Taskboard_Sprint2.png)
+![Sprint 2 taskboard](./evidence/Taskboard_Sprint2.png)
 
 Sprint 3
 
-![Sprint 3 taskboard](evidence/Taskboard_Sprint3.png)
+![Sprint 3 taskboard](./evidence/Taskboard_Sprint3.png)
 
 Sprint 4
 
-![Sprint 4 taskboard](evidence/Taskboard_Sprint4.png)
+![Sprint 4 taskboard](./evidence/Taskboard_Sprint4.png)
 
 ### Reflection (STAR)
 
