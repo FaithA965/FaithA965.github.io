@@ -2,7 +2,7 @@
 
 **Faith Adams** | Diploma in ICT (Applications Development) | PRP372S Project Presentation 3
 
-[← Back to my portfolio home](/)
+[← Back to my portfolio home](/README.md)
 
 ---
 
